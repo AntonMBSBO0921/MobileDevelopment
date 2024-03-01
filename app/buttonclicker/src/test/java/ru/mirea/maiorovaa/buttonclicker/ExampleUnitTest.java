@@ -1,4 +1,4 @@
-package com.sevostyanov.buttonclicker;
+package ru.mirea.maiorovaa.buttonclicker;
 
 import org.junit.Test;
 
